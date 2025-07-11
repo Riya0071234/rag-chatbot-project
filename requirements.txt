@@ -1,0 +1,25 @@
+# Core LangChain ecosystem
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-core==0.2.10
+langchain-text-splitters==0.2.2
+
+# Local LLM support (for interacting with the Ollama server)
+ollama==0.2.1
+
+# Vector Database
+chromadb==0.5.3
+
+# Embeddings & Tokenization
+sentence-transformers==3.0.1
+# tiktoken is used by LangChain's text splitters for precise chunking
+tiktoken==0.7.0
+
+# PDF Processing
+PyMuPDF==1.24.7  # Used by data_ingestion.py (fitz)
+
+# Web App Interface (for app.py)
+streamlit==1.36.0
+
+# Utilities
+python-dotenv==1.0.1 # For loading .env variables
