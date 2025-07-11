@@ -6,8 +6,7 @@ This repository contains the source code for an AI-powered chatbot designed to a
 
 ## 🎥 Demo
 
-[▶️ Click here to watch the screen recording of the chatbot in action](https://www.loom.com/share/9a20076c6b3b4f09a090a232fa73fbbf?sid=1b6d5bbe-f0d5-45e6-bbb6-2fff938a3a7d)
-[▶️ Click here to watch the screen recording of the chatbot in action](https://www.loom.com/share/73a92d2c5f35497399343913036652a9?sid=4c51139a-8e3e-4027-a4a3-e6f73d849db4)
+[▶️ Click here to watch the screen recording of the chatbot in action](https://www.loom.com/share/ac3be0a9fd9d47ec9721ec4f9cc321af?sid=bef41440-46b8-422b-a5f3-3399ada8e1e0)
 
 
 ---
